@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "S_Ship",
-    "path": "sprites/S_Ship/S_Ship.yy",
+    "name": "S_Wall",
+    "path": "sprites/S_Wall/S_Wall.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "O_Ship",
+  "name": "O_Wall",
   "tags": [],
   "resourceType": "GMObject",
 }

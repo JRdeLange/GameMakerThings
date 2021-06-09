@@ -1,8 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"S_Wall","path":"sprites/S_Wall/S_Wall.yy",},"order":1,},
     {"id":{"name":"O_Ship","path":"objects/O_Ship/O_Ship.yy",},"order":0,},
-    {"id":{"name":"VectorMath","path":"scripts/VectorMath/VectorMath.yy",},"order":15,},
-    {"id":{"name":"Sprite_Ship","path":"sprites/Sprite_Ship/Sprite_Ship.yy",},"order":0,},
+    {"id":{"name":"VectorMath","path":"scripts/VectorMath/VectorMath.yy",},"order":0,},
+    {"id":{"name":"Logic","path":"scripts/Logic/Logic.yy",},"order":1,},
+    {"id":{"name":"S_Ship","path":"sprites/S_Ship/S_Ship.yy",},"order":0,},
+    {"id":{"name":"O_Wall","path":"objects/O_Wall/O_Wall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
