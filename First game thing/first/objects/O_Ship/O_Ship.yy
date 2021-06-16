@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "S_Ship",
-    "path": "sprites/S_Ship/S_Ship.yy",
+    "name": "S_Ship_Still",
+    "path": "sprites/S_Ship_Still/S_Ship_Still.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "S_Ship_Still",
+    "path": "sprites/S_Ship_Still/S_Ship_Still.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
