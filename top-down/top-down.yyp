@@ -9,6 +9,8 @@
     {"id":{"name":"Stuff","path":"scripts/Stuff/Stuff.yy",},"order":0,},
     {"id":{"name":"S_Derek_walking","path":"sprites/S_Derek_walking/S_Derek_walking.yy",},"order":1,},
     {"id":{"name":"S_Derek_standing","path":"sprites/S_Derek_standing/S_Derek_standing.yy",},"order":0,},
+    {"id":{"name":"S_Wall","path":"sprites/S_Wall/S_Wall.yy",},"order":5,},
+    {"id":{"name":"O_Wall","path":"objects/O_Wall/O_Wall.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

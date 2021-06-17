@@ -12,11 +12,16 @@ leftright = key_right - key_left
 updown = key_down - key_up
 
 //// MOVEMENT ////
-xvel = 0
-yvel = 0
+xvel = vel * leftright
+yvel = vel * updown
 
-xvel += vel * leftright
-yvel += vel * updown
+if (multi_place_meeting([O_Wall], x+xvel, y)){
+	//while (!multi_place_meeting([O_Wall], x + 0.1*sign(xvel), y)){
+	//	x += 0.1*sign(xvel)
+	//}
+	xvel = 0
+	
+}
 
 x += xvel
 y += yvel
