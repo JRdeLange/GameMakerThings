@@ -1,6 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"O_Bullet","path":"objects/O_Bullet/O_Bullet.yy",},"order":2,},
     {"id":{"name":"O_Derek","path":"objects/O_Derek/O_Derek.yy",},"order":0,},
+    {"id":{"name":"O_Gun","path":"objects/O_Gun/O_Gun.yy",},"order":1,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
+    {"id":{"name":"S_Derek_walking2","path":"sprites/S_Derek_walking2/S_Derek_walking2.yy",},"order":2,},
+    {"id":{"name":"S_Gun","path":"sprites/S_Gun/S_Gun.yy",},"order":3,},
+    {"id":{"name":"Stuff","path":"scripts/Stuff/Stuff.yy",},"order":0,},
     {"id":{"name":"S_Derek_walking","path":"sprites/S_Derek_walking/S_Derek_walking.yy",},"order":1,},
     {"id":{"name":"S_Derek_standing","path":"sprites/S_Derek_standing/S_Derek_standing.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
